@@ -62,4 +62,4 @@ El informe está pensado para adaptarse fácilmente a cada cliente:
 
 ---
 
-*Proyecto de ejemplo. ¿Necesitas una automatización a medida para tu negocio? Contacta conmigo.*
+*Proyecto de ejemplo.*
